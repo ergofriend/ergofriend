@@ -1,2 +1,1 @@
-DPI 800
-sen 0.9
+![](https://pbs.twimg.com/media/EnVeVgvXYAA33XW?format=jpg&name=medium)
