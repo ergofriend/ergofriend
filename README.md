@@ -1,4 +1,7 @@
-<img  align="right" src="https://pbs.twimg.com/media/EnVeVgvXYAA33XW?format=jpg&name=medium">
+<div display="inline-block" verticalAlign="top">
+
+
+<img  align="right" marginTop="16px" src="https://pbs.twimg.com/media/EnVeVgvXYAA33XW?format=jpg&name=medium" height="253">
 
 ```
 CPU: i5-1400F
@@ -15,3 +18,5 @@ Headphones: Sony XBA-A2, Corsair VIRTUOSO RGB WIRELESS SE, final E500
 Mic: marantz Pod Pack 1
 Flight Stick: X56 HOTAS
 ```
+
+</div>
