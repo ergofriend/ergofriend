@@ -1,4 +1,4 @@
-<img align="right" width="260" height="260" src="https://pbs.twimg.com/media/EnVeVgvXYAA33XW?format=jpg&name=medium">
+<img padding-top="16px" align="right" width="253" height="253" src="https://pbs.twimg.com/media/EnVeVgvXYAA33XW?format=jpg&name=medium">
 
 ```
 CPU: i5-1400F
