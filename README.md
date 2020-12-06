@@ -1,9 +1,9 @@
-<div display="inline-block" verticalAlign="top">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ergofriend&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
+![](https://i.gyazo.com/af4edb7ec99ee03df31c3e3f839e81be.jpg)
 
 
-<img  align="right" marginTop="16px" src="https://pbs.twimg.com/media/EnVeVgvXYAA33XW?format=jpg&name=medium" height="253">
-
-```
+```kotlin
 CPU: i5-1400F
 GPU: GTX2060
 Mem: Kingston DDR4-3200 8GBx4
@@ -18,5 +18,3 @@ Headphones: Sony XBA-A2, Corsair VIRTUOSO RGB WIRELESS SE, final E500
 Mic: marantz Pod Pack 1
 Flight Stick: X56 HOTAS
 ```
-
-</div>
