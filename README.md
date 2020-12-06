@@ -3,7 +3,7 @@
 ![](https://i.gyazo.com/af4edb7ec99ee03df31c3e3f839e81be.jpg)
 
 
-```kotlin
+```yaml
 CPU: i5-1400F
 GPU: GTX2060
 Mem: Kingston DDR4-3200 8GBx4
