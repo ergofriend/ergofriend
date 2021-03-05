@@ -17,3 +17,6 @@ Headphones: Sony XBA-A2, Corsair VIRTUOSO RGB WIRELESS SE, final E500
 Microphone: marantz Pod Pack 1
 Flight Stick: X56 HOTAS
 ```
+
+
+![image](https://user-images.githubusercontent.com/29725082/110080705-30c6c500-7dce-11eb-9575-5d8b10e50d8f.png)
