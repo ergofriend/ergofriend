@@ -18,6 +18,6 @@ Microphone: marantz Pod Pack 1
 Flight Stick: X56 HOTAS
 ```
 
-|||
+|![image](https://pbs.twimg.com/media/EwNcMPPVoAUJBEP?format=jpg)|![image](https://user-images.githubusercontent.com/29725082/110080705-30c6c500-7dce-11eb-9575-5d8b10e50d8f.png)|
 |--|--|
 |![image](https://user-images.githubusercontent.com/29725082/110080705-30c6c500-7dce-11eb-9575-5d8b10e50d8f.png)|![image](https://pbs.twimg.com/media/EwNcMPPVoAUJBEP?format=jpg)|
