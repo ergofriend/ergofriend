@@ -18,6 +18,6 @@ Microphone: marantz Pod Pack 1
 Flight Stick: X56 HOTAS
 ```
 
-|![image](https://pbs.twimg.com/media/EwNcMPPVoAUJBEP?format=jpg)|![image](https://user-images.githubusercontent.com/29725082/110080705-30c6c500-7dce-11eb-9575-5d8b10e50d8f.png)|
+|![image](https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/154288017_244091727378255_7193640475356848011_n.jpg?tp=1&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=3DXxFi8W19EAX81esst&oh=3ad774b70732aa4e249b4d88efe3fe21&oe=6074EEBA)|![image](https://user-images.githubusercontent.com/29725082/110080705-30c6c500-7dce-11eb-9575-5d8b10e50d8f.png)|
 |--|--|
-|![image](https://user-images.githubusercontent.com/29725082/110080705-30c6c500-7dce-11eb-9575-5d8b10e50d8f.png)|![image](https://pbs.twimg.com/media/EwNcMPPVoAUJBEP?format=jpg)|
+|![image](https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-15/e35/81038017_114363949901333_4671630052116675944_n.jpg?tp=1&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=W4nRy4Q89vUAX9Z80Ci&oh=88e19336a277f3616305a0377c81e122&oe=60769560)|![image](https://pbs.twimg.com/media/EwNcMPPVoAUJBEP?format=jpg)|
