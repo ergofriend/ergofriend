@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=ErgoFriend)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ergofriend&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
 
