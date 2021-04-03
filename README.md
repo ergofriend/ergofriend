@@ -1,6 +1,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ergofriend&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-![](https://scontent-nrt1-1.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/154288017_244091727378255_7193640475356848011_n.jpg?tp=1&_nc_ht=scontent-nrt1-1.cdninstagram.com&_nc_cat=103&_nc_ohc=3DXxFi8W19EAX81esst&oh=3ad774b70732aa4e249b4d88efe3fe21&oe=6074EEBA)
+
 <!---
 ```make  
 CPU: i5-10400F
