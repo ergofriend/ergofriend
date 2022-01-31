@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ErgoFriend)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ergofriend&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ErgoFriend/ErgoFriend/output/github-contribution-grid-snake.svg)
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
