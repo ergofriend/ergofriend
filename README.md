@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ErgoFriend)
+![](https://komarev.com/ghpvc/?username=ergofriend)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ergofriend/ergofriend/output/github-contribution-grid-snake-dark.svg">
