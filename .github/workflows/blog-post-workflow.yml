@@ -1,8 +1,17 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 0 * * *' # Runs every day
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+  # run automatically every day
+  schedule:
+    - cron: '0 0 * * *'
+
+  # allows to manually run the job at any time
+  workflow_dispatch:
+
+   # run on every push on the master branch
+  push:
+    branches:
+    - main
+
 permissions:
   contents: write # To write the generated contents to the readme
 
