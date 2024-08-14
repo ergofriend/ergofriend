@@ -2,6 +2,11 @@
 
 :blue_book: &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Goのテンプレートエンジン「templ」が便利（TinyGoでも動くよ）](https://ergofriend.hatenablog.com/entry/2024/08/08/230603?utm_source=feed)
+- [はてなブログを「Shiki | 式」でシンタックスハイライトする](https://ergofriend.hatenablog.com/entry/2024/07/31/212342?utm_source=feed)
+- [Computational Themingをどこでも。ここでも。](https://ergofriend.hatenablog.com/entry/2024/07/28/152716?utm_source=feed)
+- [はてなブログのテーマを公開しました](https://ergofriend.hatenablog.com/entry/2024/01/20/122950?utm_source=feed)
+- [4年ぶりの日記は超広角 📷](https://ergofriend.hatenablog.com/entry/2024/01/19/213736?utm_source=feed)
 <!-- BLOG-POST-LIST:END -->
 
 :octocat: &nbsp;**GitHub Activity**
