@@ -2,11 +2,11 @@
 
 :blue_book: &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [ZedでTypeScriptの型ホバーが効かない](https://ergofriend.hatenablog.com/entry/2026/06/27/201203?utm_source=feed)
 - [Xの検索欄の文字が見切れてるのを気にしてはる](https://ergofriend.hatenablog.com/entry/2026/06/20/230101?utm_source=feed)
 - [2026年春のふりかえり](https://ergofriend.hatenablog.com/entry/2026/05/05/233030?utm_source=feed)
 - [hono/jsxでもStorybookを使う](https://ergofriend.hatenablog.com/entry/2026/02/21/170313?utm_source=feed)
 - [ChromeでSign in With Appleが連携できない？](https://ergofriend.hatenablog.com/entry/2025/09/06/205245?utm_source=feed)
-- [Drizzle ORM x MySQLでBIGINT型を扱うときの設定と精度の話](https://ergofriend.hatenablog.com/entry/2025/04/06/170037?utm_source=feed)
 <!-- BLOG-POST-LIST:END -->
 
 :octocat: &nbsp;**GitHub Activity**
